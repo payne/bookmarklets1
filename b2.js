@@ -13,6 +13,6 @@ function getSelectionText() {
     return text;
 }
 
-  alert(getSelectionText());
+  alert("<h1>"+getSelectionText()+"</h1>");
 
 })();
